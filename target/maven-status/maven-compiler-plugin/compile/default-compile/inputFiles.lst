@@ -5,7 +5,6 @@ C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\dao\implem
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\dao\interfaces\RouteDao.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\commands\route\SearchRoutesCommand.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\dao\implementation\TransactionHelper.java
-C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\commands\CommandFactory.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\dto\Carriage.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\commands\seat\UpdateSeatsCommand.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\regexp\RegExp.java
@@ -34,6 +33,7 @@ C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\json\JSONResp
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\dao\implementation\RouteDaoImpl.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\service\factory\ServiceFactory.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\service\RouteService.java
+C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\filter\URIFilter.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\servlet\APIHandlerServlet.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\db\dao\implementation\SeatDaoImpl.java
 C:\MyWorkspace\EpamLearning\RailwayTicketOffice\src\main\java\epam\commands\exit\ExitCommand.java

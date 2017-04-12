@@ -6,6 +6,24 @@
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
 
     <filter>
+        <filter-name>URIFilter</filter-name>
+        <filter-class>epam.filter.URIFilter</filter-class>
+        <init-param>
+            <param-name>active</param-name>
+            <param-value>true</param-value>
+        </init-param>
+        <init-param>
+            <param-name>resources</param-name>
+            <param-value>.css | .js | .png | .jpg | .gif | .ttf | .woff | .html</param-value>
+        </init-param>
+    </filter>
+
+    <filter-mapping>
+        <filter-name>URIFilter</filter-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
+
+    <filter>
         <filter-name>AuthFilter</filter-name>
         <filter-class>epam.filter.AuthFilter</filter-class>
         <init-param>
@@ -17,7 +35,7 @@
     <filter-mapping>
         <filter-name>AuthFilter</filter-name>
         <url-pattern>/APIHandlerServlet</url-pattern>
-        <url-pattern>/*</url-pattern>
+        <!--<url-pattern>/*</url-pattern>-->
     </filter-mapping>
 
     <servlet>

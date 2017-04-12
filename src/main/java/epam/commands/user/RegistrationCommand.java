@@ -46,20 +46,8 @@ public class RegistrationCommand implements ICommand {
             return ERROR_EMAIL_ALREADY_EXIST;
         }
 
-        String token = "";
-        try {
-            Algorithm algorithm = Algorithm.HMAC256("secret");
-            token = JWT.create()
-                    .withIssuer("auth0")
-                    .withClaim("user_id", user.getUser_id())
-                    .withClaim("email", user.getEmail())
-                    .sign(algorithm);
-        } catch (UnsupportedEncodingException | JWTCreationException exception) {
-            logger.error("Sorry, something wrong!", exception);
-        }
-
         HttpSession session = request.getSession();
-        session.setAttribute("Authorization", "Bearer " + token);
+        session.setAttribute("user_id", user.getUser_id());
 
         JSONObject jsonObject = new JSONObject();
 

@@ -44,9 +44,12 @@ public class AuthFilter implements Filter {
         int user_id = 0;
         String requestType = servletRequest.getParameter("requestType");
 
-        if (requestType.equalsIgnoreCase("login")
-                || requestType.equalsIgnoreCase("registration")
-                || session.getAttribute("user_id") != null) {
+        if (requestType != null && (requestType.equalsIgnoreCase("login")
+                || requestType.equalsIgnoreCase("registration"))) {
+
+            filterChain.doFilter(servletRequest, servletResponse);
+
+        } else if (session.getAttribute("user_id") != null) {
 
             user_id = Integer.parseInt(session.getAttribute("user_id").toString());
             servletRequest.setAttribute("user_id", user_id);

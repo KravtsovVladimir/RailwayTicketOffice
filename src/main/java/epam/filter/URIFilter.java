@@ -9,14 +9,12 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.util.Enumeration;
 
-/**
- * Created by Мир on 12.04.2017.
- */
 public class URIFilter implements Filter {
 
     private FilterConfig config = null;
     private boolean active = false;
-    private static final Logger logger = Logger.getLogger(AuthFilter.class);
+    private static final Logger logger = Logger.getLogger(URIFilter.class);
+    private String resources;
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
@@ -24,6 +22,8 @@ public class URIFilter implements Filter {
         String act = config.getInitParameter("active");
         if (act != null)
             active = (act.toUpperCase().equals("TRUE"));
+
+        resources = filterConfig.getInitParameter("resources").replaceAll(" ", "");
     }
 
     @Override
@@ -34,12 +34,20 @@ public class URIFilter implements Filter {
         HttpServletResponse response = (HttpServletResponse) servletResponse;
         String uri = "/APIHandlerServlet";
 
-        if (request.getRequestURI().equalsIgnoreCase(uri)){
+        logger.debug(uri);
+        logger.debug(request.getRequestURI());
+
+        if (isResources(request)) {
+            filterChain.doFilter(request, response);
+            return;
+        }
+
+        if (request.getRequestURI().equalsIgnoreCase(uri) || request.getRequestURI().equalsIgnoreCase("/")){
             logger.debug("equal");
             filterChain.doFilter(servletRequest, servletResponse);
         }else {
-            request.getRequestDispatcher("/WEB-INF/error/error.html").forward(request, response);
             logger.debug("not equal");
+            request.getRequestDispatcher("/WEB-INF/error/error.html").forward(request, response);
             return;
         }
     }
@@ -47,5 +55,17 @@ public class URIFilter implements Filter {
     @Override
     public void destroy() {
         config = null;
+    }
+
+    private boolean isResources(HttpServletRequest request) {
+        String[] extensions = resources.split("[|]");
+        String requestURI = request.getRequestURI();
+
+        for (String s : extensions) {
+            if (requestURI.endsWith(s)) {
+                return true;
+            }
+        }
+        return false;
     }
 }

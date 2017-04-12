@@ -3,7 +3,6 @@ epam\commands\route\SearchRoutesCommand.class
 epam\json\JSONResponses.class
 epam\commands\user\UnblockUsersCommand.class
 epam\db\dao\implementation\RouteDaoImpl.class
-epam\commands\CommandFactory.class
 epam\db\dao\implementation\UtilDaoImpl.class
 epam\filter\AuthFilter.class
 epam\db\service\RouteService.class
@@ -46,5 +45,6 @@ epam\db\dto\Train.class
 epam\db\dao\DaoFactory.class
 epam\db\dto\Seat.class
 epam\db\dao\implementation\CarriageDaoImpl.class
+epam\filter\URIFilter.class
 epam\commands\exit\ExitCommand.class
 epam\connection\ConnectionProxy.class
