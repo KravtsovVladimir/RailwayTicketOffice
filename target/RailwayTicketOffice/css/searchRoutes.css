@@ -1,0 +1,535 @@
+
+#middle > div {
+
+    padding-bottom: 65px;
+    margin: 0 auto;
+}
+
+#content {
+    width: 998px;
+    min-height: 480px;
+    margin: 0 auto;
+}
+
+.train_search .stations > div:first-child {
+    padding-left: 22px;
+}
+
+.train_search .stations > #station_till {
+    padding-right: 22px;
+}
+
+.train_search .stations > div {
+    display: inline-block;
+    padding: 22px 22px 22px 22px;
+}
+
+.train_search .stations .name {
+    margin-bottom: 15px;
+}
+
+.train_search .stations .name, .train_search .options > div {
+    color: #6E7678;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Verdana;
+}
+
+.train_search input, select, textarea {
+    font-weight: bold;
+    background: #F5F9FA;
+    border: 1px solid #b8bfc7 !important;
+    border-radius: 3px;
+}
+
+.train_search .stations input {
+    width: 416px;
+    font-size: 23px;
+    padding: 10px 15px;
+    margin-right: -37px;
+}
+
+.train_search .stations > div > b {
+    position: relative;
+    float: right;
+    width: 24px;
+    height: 24px;
+    margin-top: 13px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    background: url(../images/looking.gif);
+}
+
+.train_search .stations #reverse_dir {
+    cursor: pointer;
+    margin-top: 65px;
+    background-image: url(../images/revers.png);
+    height: 32px;
+    width: 32px;
+}
+
+.autosuggest {
+    position: absolute;
+    border: 1px solid #c8d2d7;
+    background: #fff;
+    border-radius: 3px;
+}
+
+.train_search .options > div {
+    padding: 20px;
+    border: 1px solid #d5dce0;
+    border-left: none;
+    border-right: none;
+    background: #EDF5F7;
+}
+
+.train_search .options label {
+    margin-right: 10px;
+}
+
+.train_search .options #date_dep {
+    width: 90px;
+    padding: 3px 0;
+    text-align: center;
+    color: #000;
+}
+
+.train_search > p {
+    margin-top: 20px;
+    text-align: center;
+    font-family: MyriadProCondRegular;
+}
+
+.train_search > p button {
+    color: #434849;
+    width: 465px;
+    height: 95px;
+    font-size: 35px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    background: url(../images/searchbutton.png);
+}
+
+#ts_res {
+    margin: 20px 15px;
+}
+
+#ts_res_tbl {
+    width: 100%;
+    border-width: 0;
+    border-spacing: 1px;
+    padding: 0;
+}
+
+.vToolsDataTable {
+    background-color: #EDF5F7;
+}
+
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 1px;
+    border-color: grey;
+}
+
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+    background-color: #EDF5F7;
+}
+
+#ts_res_tbl th {
+    white-space: nowrap;
+}
+
+#ts_res_tbl th, #ts_res_tbl td {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+}
+
+thead th {
+    color: #6E7678;
+    font-size: 14px;
+    font-family: Verdana;
+}
+
+.vToolsDataTable tr {
+    cursor: default;
+}
+
+.vToolsDataTableRow {
+    background: #F5F9FA;
+}
+
+.vToolsDataTableRow2 {
+    background-color: #eaeef1;
+}
+
+#ts_res_tbl td.num {
+    font-size: 24px;
+    width: 70px;
+    text-align: center;
+}
+
+#ts_res_tbl td {
+    font-weight: bold;
+}
+
+#ts_res_tbl td.num div {
+    font-size: 13px;
+}
+
+#ts_res_tbl td.stations {
+    width: 165px;
+    font-size: 15px;
+}
+
+#ts_res_tbl td.date {
+    font-size: 12px;
+}
+
+#ts_res_tbl td.date div {
+    border-bottom: 1px dotted #aaa;
+}
+
+#ts_res_tbl td.date span {
+    float: right;
+    margin-left: 7px;
+}
+
+.clear {
+    display: block;
+    clear: both;
+    font-size: 0;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    line-height: 0;
+}
+
+#ts_res_tbl td.time {
+    font-size: 20px;
+    width: 60px;
+    text-align: center;
+}
+
+#ts_res_tbl td.dur {
+    font-size: 20px;
+    width: 60px;
+    text-align: center;
+}
+
+#ts_res_tbl td.place {
+    padding: 0;
+    width: 190px;
+}
+
+#ts_res_tbl td.place div i {
+    font-weight: normal;
+}
+
+#ts_res_tbl td.place i {
+    margin-right: 8px;
+    text-transform: capitalize;
+    margin-top: -5px;
+    color: #aaa;
+    border-bottom: 1px dashed #aaa;
+}
+
+#ts_res_tbl td.place b, #ts_res_tbl td.place i {
+    display: inline-block;
+    font-size: 20px;
+}
+
+#ts_res_tbl td.place button {
+    cursor: pointer;
+    float: right;
+    margin: 3px 0;
+}
+
+td > div > button {
+    font-weight: bold;
+    padding: 3px;
+    border: 1px solid #dbdbdb;
+    background-color: #A9E2F3;
+    border-radius: 3px;
+    box-shadow: inset 0 2px 0 -1px #c4e1f2, 1px 3px 3px 0 #bddbe9;
+}
+
+#ts_res_tbl td.place div {
+    margin-top: -1px;
+    border-top: 1px solid #ccc;
+    padding: 10px;
+    vertical-align: middle;
+}
+
+#ts_res, #ts_res_not_found {
+    display: none;
+}
+
+.vToolsPopupHeader > button {
+    display: inline-block;
+    width: 24px;
+    height: 25px;
+    margin-right: -8px;
+    margin-bottom: -5px;
+    background: url(../images/popup_close.png) no-repeat;
+    border-radius: 15px;
+}
+
+.vToolsPopupHeader .coaches a {
+    display: inline-block;
+    margin-left: 5px;
+    margin-bottom: -5px;
+    text-align: center;
+    text-decoration: none;
+    padding: 3px 5px 3px 0;
+    width: 69px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    text-shadow: #000 0 0 5px;
+    /*filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=0, Color='#ffffff')";*/
+    border-radius: 3px;
+    border: 1px solid transparent;
+    background: url(../images/coach_ico.png) no-repeat 6px center;
+    box-shadow: inset 0 0 3px 0 #fff;
+    border: 1px solid #eef;
+}
+
+#ts_chs_tbl .th3 {
+    width: 420px;
+}
+
+#ts_chs_tbl .th4 {
+    width: 95px;
+}
+
+.vToolsDataTableChoose td, .vToolsDataTableChoose th {
+    padding: 5px 10px;
+}
+
+.vToolsDataTableChoose {
+    background-color: #c5c7cc;
+}
+
+#ts_chs_tbl .fio {
+    padding-top: 5px;
+    float: none !important;
+}
+
+#ts_chs_tbl .fio label {
+    padding: 0 6px;
+    font-weight: bold;
+    display: inline-block !important;
+}
+
+#ts_chs_tbl td.option input {
+    margin-right: 4px;
+}
+
+#ts_chs_tbl .fio input {
+    display: block !important;
+    width: 150px;
+}
+
+.vToolsPopupHeader {
+    background: #62c6e4;
+    padding: 10px 20px;
+    cursor: default;
+    text-align: right;
+}
+
+.vToolsPopupCoachScheme .vToolsPopupHeader > span {
+    text-align: left;
+    width: 100%;
+}
+
+.vToolsPopupHeader > span {
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    color: #f7fbff;
+}
+
+.vToolsPopupCoachScheme .vToolsPopupHeader .title {
+    float: left;
+    text-align: left;
+    width: 215px;
+}
+
+.vToolsPopupHeader > span strong {
+    font-size: 18px;
+}
+
+.vToolsPopupCoachScheme .vToolsPopupHeader .coaches {
+    float: left;
+    width: 700px;
+    line-height: 30px;
+}
+
+.vToolsPopupHeader .date {
+    color: #F7FBFF;
+    text-align: left;
+    font-weight: bold;
+}
+
+.vToolsPopupContent {
+    margin: 20px;
+    padding-right: 3px;
+}
+
+#ts_chs_tbl td.num {
+    text-align: center;
+}
+
+#ts_chs_tbl td {
+    font-weight: bold;
+    text-shadow: #D4E5EF 1px 1px 0;
+}
+
+#ts_chs_tbl td.place {
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+#ts_chs_tbl td.option {
+    min-width: 348px;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+#ts_chs_tbl td.service {
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 25px;
+}
+
+#ts_chs_tbl td.price {
+    text-align: center;
+    font-size: 20px;
+    white-space: nowrap;
+}
+
+#ts_chs_tbl > span {
+    width: 499px;
+    display: inline-block;
+    padding: 30px 0 0 10px;
+    color: #aa0000;
+    font-size: 15px;
+}
+
+#ts_chs_tbl > button {
+    float: right;
+    margin: 20px 3px 5px 0;
+}
+
+.complex_btn {
+    background: url(../images/complex_btn.png) repeat-x 0 0 !important;
+    border: none;
+    font-size: 24px;
+    padding: 0;
+    cursor: pointer;
+    display: inline-block;
+    box-shadow: 3px 2px 3px 0 #d4e5ef;
+    width: 350px;
+    height: 52px;
+}
+
+.complex_btn b {
+    float: left;
+    color: #427994;
+    width: 170px;
+    white-space: nowrap;
+}
+
+.complex_btn span {
+    color: #ddf2fa;
+    float: right;
+    width: 160px;
+}
+
+.vToolsPopupHeader .coaches a b, .vToolsPopupHeader .coaches a i {
+    font-size: 11px;
+    color: #eee;
+    line-height: 16px;
+}
+
+.vToolsPopupHeader .coaches a b {
+    float: right;
+    margin-right: 0;
+}
+
+.coach-scheme {
+    overflow: auto;
+    min-height: 105px;
+    text-align: center;
+}
+
+#ts_chs_scheme .wagon-floors {
+    display: inline-block;
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 {
+    border: 6px solid #2c6a8c;
+    border-radius: 15px;
+    position: relative;
+    margin: 0 auto 10px;
+    min-width: calc(100% - 12px);
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 .place-fr, #ts_chs_scheme .wagon-floors .floor-floor1 .place-oc, #ts_chs_scheme .wagon-floors .floor-floor1 .place-bl, #coach_chooser_help .coach_scheme .place-fr, #coach_chooser_help .coach_scheme .place-oc, #coach_chooser_help .coach_scheme .place-bl {
+    font-size: 12px;
+    background: #2c6a8c;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    cursor: default;
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 .place-fr {
+    cursor: pointer;
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 .place-oc, #coach_chooser_help .coach_scheme .place-oc {
+    font-weight: normal;
+    background-color: #bebebe;
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 .place-bl, #coach_chooser_help .coach_scheme .place-bl {
+    background-color: #aa0000;
+}
+
+#ts_chs_scheme .wagon-floors .wall {
+    width: 2px;
+    background-color: #2c6a8c;
+}
+
+#ts_chs_scheme .wagon-floors .toilet {
+    background: url(../images/toilet_full.png) no-repeat center;
+    background-size: contain;
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 .bag::after {
+    background-position: -56px 0;
+    left: calc(50% - 15px);
+    width: 30px;
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 .stairs::after, #ts_chs_scheme .wagon-floors .floor-floor1 .bag::after, #ts_chs_scheme .wagon-floors .floor-floor1 .bar::after, #ts_chs_scheme .wagon-floors .floor-floor1 .wheelchair::after, #ts_chs_scheme .wagon-floors .floor-floor1 .hanger::after {
+    position: absolute;
+    display: inline-block;
+    content: '';
+    top: calc(50% - 12.5px);
+    height: 25px;
+    background: url(../images/scheme_ico_bag.png) no-repeat;
+}
+
+#ts_chs_scheme .wagon-floors .floor-floor1 > * {
+    position: absolute;
+}

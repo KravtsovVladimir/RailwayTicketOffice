@@ -1,0 +1,210 @@
+/*ФОРМА АВТОРИЗАЦИИ И РЕГИСТРАЦИИ - НАЧАЛО*/
+@media screen and (max-width: 400px) {
+    #login-dp{
+        width: auto;
+    }
+}
+
+@media screen and (min-width: 401px){
+    #login-dp{
+        width: 250px;
+    }
+}
+
+#login-dp{
+    position: fixed;
+    right: 20px;
+    top: 10%;
+    z-index: 2;
+    border-radius: 4px;
+    display: none;
+    background-color:rgba(255,255,255,.8);
+}
+
+#login-dp .help-block{
+    font-size:12px
+}
+
+#login-dp .bottom{
+    background-color:rgba(255,255,255,.8);
+    border-top:1px solid #ddd;
+    border-radius: 4px;
+    clear:both;
+    padding:14px;
+}
+#login-dp .form-group {
+    margin-bottom: 10px;
+}
+/*ФОРМА АВТОРИЗАЦИИ И РЕГИСТРАЦИИ - КОНЕЦ*/
+
+/*МЕНЮ НАВИГАЦИИ*/
+#responsive-menu {
+    font-family: "Segoe UI";
+    font-size: 18px;
+    font-weight: 400;
+}
+
+/*ЗАГОЛОВОК БЛОКА*/
+.header {
+    background-color: #A9E2F3;
+    text-align: center;
+    height: 51px;
+    padding: 1px;
+    text-transform: uppercase;
+    color: #081c3d;
+}
+.blockItem h1{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-family: MyriadProCondRegular;
+    font-size: 30px;
+}
+
+/*БЛОК НОВОСТЕЙ - НАЧАЛО*/
+.mainArticlesModule h2 {
+    color: #2d547d;
+    text-transform: uppercase;
+    font-family: MyriadProCondRegular;
+    font-size: 22px;
+    line-height: 22px;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.itemsLeft .text {
+    text-align: right;
+    margin-right: 155px;
+}
+
+.mainArticlesModule .itemsLeft .avatar {
+    float: right;
+}
+
+.mainArticlesModule .itemsLeft {
+    float: left;
+    max-width: 470px;
+    width: 50%;
+    padding-right: 10px;
+}
+
+.mainArticlesModule .itemsRight {
+    float: right;
+    max-width: 470px;
+    width: 50%;
+    padding-left: 10px;
+}
+
+.mainArticlesModule .item {
+    margin-bottom: 25px;
+    position: relative;
+    height: auto;
+    overflow: hidden;
+}
+
+.mainArticlesModule .itemsRight .text {
+    text-align: left;
+    margin-left: 155px;
+}
+
+.mainArticlesModule .itemsRight .avatar {
+    float: left;
+}
+
+.clr {
+    clear: both;
+}
+
+.mainArticlesModule .text {
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.mainArticlesModule {
+    padding-top: 25px;
+}
+
+.blockItem {
+    position: relative;
+}
+
+.block {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.articlesSection {
+    box-shadow: 0px 0px 15px -5px #000000;
+    position: relative;
+}
+
+
+@media only screen and (max-width: 1200px){
+    .blockItem{ margin: 0px 20px;}
+    header, header .block{height: 200px;}
+}
+
+@media only screen and (max-width: 991px) {
+    .blockItem{ margin: 0px;}
+    .block{padding: 0px;}
+    .articlesSection .blockItem{margin: 0px 40px;}
+    .articlesSection .mainArticlesModule .avatar{width: 110px;}
+    .articlesSection .mainArticlesModule .itemsLeft .text{ margin-right: 125px; height: inherit}
+    .articlesSection .mainArticlesModule .itemsRight .text{margin-left: 125px; height: inherit}
+    .body .blockItem{margin: 0px 60px;}
+    .body .blogItems .item{width: 100%;}
+}
+@media only screen and (max-width: 767px) {
+    .articlesSection .blockItem{margin: 0px 30px;}
+    .articlesSection .header h1{font-size: 20px;line-height: 25px;}
+    .articlesSection .mainArticlesModule .itemsLeft{width: 100%; max-width: none; padding: 0px;}
+    .articlesSection .mainArticlesModule .itemsRight{width: 100%; float: left;max-width: none;padding: 0px;}
+    .articlesSection .mainArticlesModule .itemsLeft .avatar{ float: left;}
+    .articlesSection .mainArticlesModule .itemsLeft .text{ margin:0px 0px 0px 125px; text-align: left; height: auto}
+    .body .blockItem{margin: 0px 30px;}
+}
+@media only screen and (max-width: 400px) {
+    .articlesSection .blockItem{margin: 0px 20px;}
+    .articlesSection .mainArticlesModule .avatar{ float: none; text-align: center;}
+    .articlesSection .mainArticlesModule .avatar img{width: 140px; margin-bottom: 8px;}
+    .articlesSection .mainArticlesModule .itemsLeft .text{ margin-left:0px; height: auto}
+    .articlesSection .mainArticlesModule .itemsRight .text{margin-left:0px; height: auto}
+    .body .blockItem{margin: 0px 20px;}
+}
+
+.articlesSection .mainArticlesModule .avatar img {
+    width: 100%;
+}
+/*БЛОК НОВОСТЕЙ - КОНЕЦ*/
+
+.item > h1 {
+    position: absolute;
+    top		: 450px;
+    left		: 50px;
+    width		: 100%;
+}
+
+h1 span {
+    color			: white;
+    font-size: 34px;
+    font-weight: 500;
+    font-family: "Segoe UI Light";
+    background		: rgba(0, 0, 0, 0.7);
+    padding			: 3px;
+}
+
+h1 span.spacer {
+    padding	: 0 5px;
+}
+
+label.error {
+    font-size: 10px;
+    display: block;
+    margin-top: 5px;
+    color: #cc0000;
+}
+
+
+
+
+
+
