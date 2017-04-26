@@ -13,9 +13,7 @@ import org.json.simple.JSONStreamAware;
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
-import static epam.json.JSONResponses.ERROR_INVALID_STATIONS;
-import static epam.json.JSONResponses.ERROR_NO_RESULTS_FOR_REQUEST;
-import static epam.json.JSONResponses.ERROR_USER_HAS_BLOCKED;
+import static epam.json.JSONResponses.*;
 
 public class SearchRoutesCommand implements ICommand {
 
@@ -42,7 +40,14 @@ public class SearchRoutesCommand implements ICommand {
         }
 
         UtilService utilService = ServiceFactory.getInstance().getUtilService();
-        List<Util> routes = utilService.searchPossibleRoutes(dep_st, arr_st, date, time);
+        List<Util> routes = null;
+
+        try{
+
+            routes = utilService.searchPossibleRoutes(dep_st, arr_st, date, time);
+        }catch (IllegalArgumentException e){
+            return ERROR_NAME_INVALID;
+        }
 
         if (routes.size() == 0) {
             logger.info("ERROR_NO_RESULTS_FOR_REQUEST");

@@ -10,6 +10,7 @@ import org.json.simple.JSONStreamAware;
 import javax.servlet.http.HttpServletRequest;
 import java.util.*;
 
+import static epam.json.JSONResponses.ERROR_NAME_INVALID;
 import static epam.json.JSONResponses.ERROR_USER_HAS_BLOCKED;
 import static epam.json.JSONResponses.ERROR_WHEN_BUYING_TICKET;
 
@@ -49,10 +50,16 @@ public class BuyTicketCommand implements ICommand {
         }
 
         TicketService ticketService = ServiceFactory.getInstance().getTicketService();
+        boolean b = false;
+        try {
+            b = ticketService.buyTickets(train_number, dep_date, dep_st, arr_st, price, dep_st_seq, arr_st_seq, user_id,
+                    carriages, seats, names, surnames);
+        } catch (IllegalArgumentException e) {
+            logger.error(e);
+            return ERROR_NAME_INVALID;
+        }
 
-        if (ticketService.buyTickets(train_number, dep_date, dep_st, arr_st, price, dep_st_seq, arr_st_seq, user_id,
-                carriages, seats, names, surnames)) {
-        } else {
+        if (!b) {
             logger.info("ERROR_WHEN_BUYING_TICKET");
             return ERROR_WHEN_BUYING_TICKET;
         }

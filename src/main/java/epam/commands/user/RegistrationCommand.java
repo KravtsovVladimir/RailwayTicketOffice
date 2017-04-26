@@ -33,7 +33,7 @@ public class RegistrationCommand implements ICommand {
         String surname = request.getParameter("surname");
 
         if (!(RegExp.validateEmail(email) & RegExp.validatePassword(password)
-                & RegExp.validatePassword(name) & RegExp.validateForLettersAndDash(surname))) {
+                & RegExp.validateForLettersAndDash(name) & RegExp.validateForLettersAndDash(surname))) {
             logger.info("ERROR_INVALID_REGISTRATION_DATA");
             return ERROR_INVALID_REGISTRATION_DATA;
         }

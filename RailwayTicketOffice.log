@@ -17899,3 +17899,2066 @@ java.lang.NumberFormatException: For input string: ""
 2017-04-12 09:58:41 DEBUG URIFilter:46 - equal
 2017-04-12 09:58:41 DEBUG AuthFilter:39 - In filter
 2017-04-12 09:58:41 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 12:26:56 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /
+2017-04-12 12:26:58 DEBUG URIFilter:46 - equal
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 12:26:58 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 12:26:58 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 12:26:58 DEBUG URIFilter:49 - not equal
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 12:26:59 DEBUG URIFilter:49 - not equal
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 12:26:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:26:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:26:59 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 12:27:00 DEBUG URIFilter:31 - In filter
+2017-04-12 12:27:00 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:27:00 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 12:27:00 DEBUG URIFilter:31 - In filter
+2017-04-12 12:27:00 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:27:00 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 12:27:01 DEBUG URIFilter:31 - In filter
+2017-04-12 12:27:01 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:27:01 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 12:27:01 DEBUG URIFilter:31 - In filter
+2017-04-12 12:27:01 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:27:01 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 12:28:16 DEBUG URIFilter:31 - In filter
+2017-04-12 12:28:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:28:16 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:28:16 DEBUG URIFilter:46 - equal
+2017-04-12 12:28:16 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:28:16 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 12:28:16 INFO  RegistrationCommand:37 - ERROR_INVALID_REGISTRATION_DATA
+2017-04-12 12:31:30 DEBUG URIFilter:31 - In filter
+2017-04-12 12:31:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:31:30 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:31:30 DEBUG URIFilter:46 - equal
+2017-04-12 12:31:30 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:31:30 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 12:32:13 DEBUG URIFilter:31 - In filter
+2017-04-12 12:32:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:32:13 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png
+2017-04-12 12:32:13 DEBUG URIFilter:31 - In filter
+2017-04-12 12:32:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:32:13 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-icons_d8e7f3_256x240.png
+2017-04-12 12:32:13 DEBUG URIFilter:31 - In filter
+2017-04-12 12:32:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:32:13 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_85_dfeffc_1x400.png
+2017-04-12 12:32:16 DEBUG URIFilter:31 - In filter
+2017-04-12 12:32:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:32:16 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:32:16 DEBUG URIFilter:46 - equal
+2017-04-12 12:32:16 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:32:16 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:32:16 DEBUG SearchRoutesCommand:28 - 8
+2017-04-12 12:32:16 INFO  SearchRoutesCommand:48 - ERROR_NO_RESULTS_FOR_REQUEST
+2017-04-12 12:32:47 DEBUG URIFilter:31 - In filter
+2017-04-12 12:32:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:32:47 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:32:47 DEBUG URIFilter:46 - equal
+2017-04-12 12:32:47 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:32:47 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:32:47 DEBUG SearchRoutesCommand:28 - 8
+2017-04-12 12:32:47 INFO  SearchRoutesCommand:48 - ERROR_NO_RESULTS_FOR_REQUEST
+2017-04-12 12:32:53 DEBUG URIFilter:31 - In filter
+2017-04-12 12:32:53 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:32:53 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:32:53 DEBUG URIFilter:46 - equal
+2017-04-12 12:32:53 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:32:53 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:32:53 DEBUG SearchRoutesCommand:28 - 8
+2017-04-12 12:33:38 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:38 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:33:38 DEBUG URIFilter:46 - equal
+2017-04-12 12:33:38 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:33:38 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:33:38 DEBUG ChoiceOfSeatCommand:24 - 8
+2017-04-12 12:33:38 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:38 DEBUG URIFilter:38 - /images/popup_close.png
+2017-04-12 12:33:38 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:38 DEBUG URIFilter:38 - /images/coach_ico.png
+2017-04-12 12:33:46 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:46 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:33:46 DEBUG URIFilter:46 - equal
+2017-04-12 12:33:46 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:33:46 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:33:46 DEBUG ChoiceOfSeatCommand:24 - 8
+2017-04-12 12:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:50 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:33:50 DEBUG URIFilter:46 - equal
+2017-04-12 12:33:50 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:33:50 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:33:50 DEBUG UpdateSeatsCommand:27 - 8
+2017-04-12 12:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:50 DEBUG URIFilter:38 - /images/scheme_ico_bag.png
+2017-04-12 12:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:50 DEBUG URIFilter:38 - /images/toilet_full.png
+2017-04-12 12:33:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:33:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:33:59 DEBUG URIFilter:38 - /images/complex_btn.png
+2017-04-12 12:35:38 DEBUG URIFilter:31 - In filter
+2017-04-12 12:35:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:35:38 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:35:38 DEBUG URIFilter:46 - equal
+2017-04-12 12:35:38 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:35:38 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:35:38 DEBUG SearchRoutesCommand:28 - 8
+2017-04-12 12:35:41 DEBUG URIFilter:31 - In filter
+2017-04-12 12:35:41 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:35:41 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:35:41 DEBUG URIFilter:46 - equal
+2017-04-12 12:35:41 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:35:41 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:35:41 DEBUG ChoiceOfSeatCommand:24 - 8
+2017-04-12 12:35:42 DEBUG URIFilter:31 - In filter
+2017-04-12 12:35:42 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:35:42 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:35:42 DEBUG URIFilter:46 - equal
+2017-04-12 12:35:42 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:35:42 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:35:42 DEBUG UpdateSeatsCommand:27 - 8
+2017-04-12 12:36:16 DEBUG URIFilter:31 - In filter
+2017-04-12 12:36:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:36:16 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:36:16 DEBUG URIFilter:46 - equal
+2017-04-12 12:36:16 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:36:16 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 12:36:16 DEBUG BuyTicketCommand:24 - 8
+2017-04-12 12:38:42 DEBUG URIFilter:31 - In filter
+2017-04-12 12:38:42 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:38:42 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:38:42 DEBUG URIFilter:46 - equal
+2017-04-12 12:38:42 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:38:42 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:39:03 DEBUG URIFilter:31 - In filter
+2017-04-12 12:39:03 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:39:03 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:39:03 DEBUG URIFilter:46 - equal
+2017-04-12 12:39:03 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:39:03 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 12:39:09 DEBUG URIFilter:31 - In filter
+2017-04-12 12:39:09 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:39:09 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:39:09 DEBUG URIFilter:46 - equal
+2017-04-12 12:39:09 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:39:09 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:39:09 DEBUG ShowUsersCommand:24 - 2
+2017-04-12 12:39:23 DEBUG URIFilter:31 - In filter
+2017-04-12 12:39:23 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:39:23 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:39:23 DEBUG URIFilter:46 - equal
+2017-04-12 12:39:23 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:39:23 DEBUG APIHandlerServlet:35 - doPut
+2017-04-12 12:39:23 DEBUG BlockUsersCommand:24 - 2
+2017-04-12 12:39:26 DEBUG URIFilter:31 - In filter
+2017-04-12 12:39:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:39:26 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:39:26 DEBUG URIFilter:46 - equal
+2017-04-12 12:39:26 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:39:26 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:39:26 DEBUG ShowUsersCommand:24 - 2
+2017-04-12 12:39:36 DEBUG URIFilter:31 - In filter
+2017-04-12 12:39:36 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:39:36 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:39:36 DEBUG URIFilter:46 - equal
+2017-04-12 12:39:36 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:39:36 DEBUG APIHandlerServlet:35 - doPut
+2017-04-12 12:39:36 DEBUG BlockUsersCommand:24 - 2
+2017-04-12 12:39:37 DEBUG URIFilter:31 - In filter
+2017-04-12 12:39:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:39:37 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:39:37 DEBUG URIFilter:46 - equal
+2017-04-12 12:39:37 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:39:37 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:39:37 DEBUG ShowUsersCommand:24 - 2
+2017-04-12 12:39:57 DEBUG URIFilter:31 - In filter
+2017-04-12 12:39:57 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:39:57 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:39:57 DEBUG URIFilter:46 - equal
+2017-04-12 12:39:57 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:39:57 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:40:02 DEBUG URIFilter:31 - In filter
+2017-04-12 12:40:02 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:40:02 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:40:02 DEBUG URIFilter:46 - equal
+2017-04-12 12:40:02 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:40:02 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 12:40:02 INFO  LoginCommand:50 - ERROR_USER_HAS_BLOCKED
+2017-04-12 12:40:13 DEBUG URIFilter:31 - In filter
+2017-04-12 12:40:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:40:13 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:40:13 DEBUG URIFilter:46 - equal
+2017-04-12 12:40:13 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:40:13 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:40:13 DEBUG SearchRoutesCommand:28 - 2
+2017-04-12 12:41:01 DEBUG URIFilter:31 - In filter
+2017-04-12 12:41:01 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:41:01 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_75_d0e5f5_1x400.png
+2017-04-12 12:41:02 DEBUG URIFilter:31 - In filter
+2017-04-12 12:41:02 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:41:02 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:41:02 DEBUG URIFilter:46 - equal
+2017-04-12 12:41:02 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:41:02 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:41:02 DEBUG SearchRoutesCommand:28 - 2
+2017-04-12 12:44:29 DEBUG URIFilter:31 - In filter
+2017-04-12 12:44:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:44:29 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 12:44:29 DEBUG URIFilter:49 - not equal
+2017-04-12 12:44:33 DEBUG URIFilter:31 - In filter
+2017-04-12 12:44:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:44:33 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:44:33 DEBUG URIFilter:46 - equal
+2017-04-12 12:44:33 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:44:33 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:44:33 DEBUG SearchRoutesCommand:28 - 2
+2017-04-12 12:48:59 DEBUG URIFilter:31 - In filter
+2017-04-12 12:48:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:48:59 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:48:59 DEBUG URIFilter:46 - equal
+2017-04-12 12:48:59 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:48:59 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:48:59 DEBUG ChoiceOfSeatCommand:24 - 2
+2017-04-12 12:49:06 DEBUG URIFilter:31 - In filter
+2017-04-12 12:49:06 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 12:49:06 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 12:49:06 DEBUG URIFilter:46 - equal
+2017-04-12 12:49:06 DEBUG AuthFilter:39 - In filter
+2017-04-12 12:49:06 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 12:49:06 DEBUG UpdateSeatsCommand:27 - 2
+2017-04-12 13:49:57 DEBUG URIFilter:31 - In filter
+2017-04-12 13:49:57 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:49:57 DEBUG URIFilter:38 - /
+2017-04-12 13:49:57 DEBUG URIFilter:46 - equal
+2017-04-12 13:49:57 DEBUG URIFilter:31 - In filter
+2017-04-12 13:49:57 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:49:57 DEBUG URIFilter:38 - /
+2017-04-12 13:49:57 DEBUG URIFilter:46 - equal
+2017-04-12 13:49:59 DEBUG URIFilter:31 - In filter
+2017-04-12 13:49:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:49:59 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 13:49:59 DEBUG URIFilter:49 - not equal
+2017-04-12 13:49:59 DEBUG URIFilter:31 - In filter
+2017-04-12 13:49:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:49:59 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 13:49:59 DEBUG URIFilter:31 - In filter
+2017-04-12 13:49:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:49:59 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 13:49:59 DEBUG URIFilter:49 - not equal
+2017-04-12 13:50:17 DEBUG URIFilter:31 - In filter
+2017-04-12 13:50:17 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:50:17 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:50:17 DEBUG URIFilter:46 - equal
+2017-04-12 13:50:17 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:50:17 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 13:50:20 DEBUG URIFilter:31 - In filter
+2017-04-12 13:50:20 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:50:20 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:50:20 DEBUG URIFilter:46 - equal
+2017-04-12 13:50:20 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:50:20 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 13:50:20 DEBUG ShowTicket:28 - 7
+2017-04-12 13:51:35 DEBUG URIFilter:31 - In filter
+2017-04-12 13:51:35 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:51:35 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 13:51:35 DEBUG URIFilter:49 - not equal
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /
+2017-04-12 13:53:21 DEBUG URIFilter:46 - equal
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /
+2017-04-12 13:53:21 DEBUG URIFilter:46 - equal
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /
+2017-04-12 13:53:21 DEBUG URIFilter:46 - equal
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 13:53:21 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:21 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 13:53:22 DEBUG URIFilter:49 - not equal
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 13:53:22 DEBUG URIFilter:49 - not equal
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 13:53:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:22 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 13:53:23 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:23 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:23 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 13:53:23 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:23 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:23 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 13:53:23 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:23 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:23 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 13:53:23 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:23 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:23 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 13:53:31 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:31 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:53:31 DEBUG URIFilter:46 - equal
+2017-04-12 13:53:31 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:53:31 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 13:53:35 DEBUG URIFilter:31 - In filter
+2017-04-12 13:53:35 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:53:35 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:53:35 DEBUG URIFilter:46 - equal
+2017-04-12 13:53:35 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:53:35 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 13:53:35 DEBUG ShowTicket:28 - 1
+2017-04-12 13:54:26 DEBUG URIFilter:31 - In filter
+2017-04-12 13:54:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:54:26 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 13:54:26 DEBUG URIFilter:49 - not equal
+2017-04-12 13:55:50 DEBUG URIFilter:31 - In filter
+2017-04-12 13:55:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:55:50 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:55:50 DEBUG URIFilter:46 - equal
+2017-04-12 13:55:50 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:55:50 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 13:55:50 DEBUG ShowTicket:28 - 1
+2017-04-12 13:58:10 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:10 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:10 DEBUG URIFilter:38 - /
+2017-04-12 13:58:10 DEBUG URIFilter:46 - equal
+2017-04-12 13:58:10 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:10 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:10 DEBUG URIFilter:38 - /
+2017-04-12 13:58:10 DEBUG URIFilter:46 - equal
+2017-04-12 13:58:12 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:12 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:12 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 13:58:12 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:12 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:12 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 13:58:12 DEBUG URIFilter:49 - not equal
+2017-04-12 13:58:12 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:12 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:12 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 13:58:12 DEBUG URIFilter:49 - not equal
+2017-04-12 13:58:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:22 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:58:22 DEBUG URIFilter:46 - equal
+2017-04-12 13:58:22 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:58:22 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 13:58:25 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:25 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:25 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:58:25 DEBUG URIFilter:46 - equal
+2017-04-12 13:58:25 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:58:25 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 13:58:25 DEBUG ShowTicket:28 - 1
+2017-04-12 13:58:42 DEBUG URIFilter:31 - In filter
+2017-04-12 13:58:42 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:58:42 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 13:58:42 DEBUG URIFilter:49 - not equal
+2017-04-12 13:59:02 DEBUG URIFilter:31 - In filter
+2017-04-12 13:59:02 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:59:02 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:59:02 DEBUG URIFilter:46 - equal
+2017-04-12 13:59:02 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:59:02 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 13:59:15 DEBUG URIFilter:31 - In filter
+2017-04-12 13:59:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:59:15 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:59:15 DEBUG URIFilter:46 - equal
+2017-04-12 13:59:15 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:59:15 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 13:59:17 DEBUG URIFilter:31 - In filter
+2017-04-12 13:59:17 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:59:17 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:59:17 DEBUG URIFilter:46 - equal
+2017-04-12 13:59:17 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:59:17 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 13:59:17 DEBUG ShowTicket:28 - 3
+2017-04-12 13:59:22 DEBUG URIFilter:31 - In filter
+2017-04-12 13:59:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:59:22 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:59:22 DEBUG URIFilter:46 - equal
+2017-04-12 13:59:22 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:59:22 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 13:59:22 DEBUG ShowTicket:28 - 3
+2017-04-12 13:59:25 DEBUG URIFilter:31 - In filter
+2017-04-12 13:59:25 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 13:59:25 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 13:59:25 DEBUG URIFilter:46 - equal
+2017-04-12 13:59:25 DEBUG AuthFilter:39 - In filter
+2017-04-12 13:59:25 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:03:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:27 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:03:27 DEBUG URIFilter:46 - equal
+2017-04-12 14:03:27 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:03:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:30 DEBUG URIFilter:38 - /
+2017-04-12 14:03:30 DEBUG URIFilter:46 - equal
+2017-04-12 14:03:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:30 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:03:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:31 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:03:31 DEBUG URIFilter:49 - not equal
+2017-04-12 14:03:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:31 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:03:31 DEBUG URIFilter:49 - not equal
+2017-04-12 14:03:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:32 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:03:45 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:45 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:45 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:03:45 DEBUG URIFilter:46 - equal
+2017-04-12 14:03:45 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:03:45 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:03:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:03:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:03:47 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:03:47 DEBUG URIFilter:46 - equal
+2017-04-12 14:03:47 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:03:47 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:03:47 DEBUG ShowTicket:28 - 1
+2017-04-12 14:04:09 DEBUG URIFilter:31 - In filter
+2017-04-12 14:04:09 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:04:09 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 14:04:09 DEBUG URIFilter:49 - not equal
+2017-04-12 14:06:52 DEBUG URIFilter:31 - In filter
+2017-04-12 14:06:52 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:06:52 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 14:06:52 DEBUG URIFilter:49 - not equal
+2017-04-12 14:06:59 DEBUG URIFilter:31 - In filter
+2017-04-12 14:06:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:06:59 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:06:59 DEBUG URIFilter:46 - equal
+2017-04-12 14:06:59 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:06:59 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:06:59 DEBUG ShowTicket:28 - 1
+2017-04-12 14:07:03 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:03 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:03 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:07:03 DEBUG URIFilter:46 - equal
+2017-04-12 14:07:03 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:07:03 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:07:03 DEBUG ShowTicket:28 - 1
+2017-04-12 14:07:44 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:44 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:44 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png
+2017-04-12 14:07:44 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:44 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:44 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-icons_d8e7f3_256x240.png
+2017-04-12 14:07:44 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:44 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:44 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_85_dfeffc_1x400.png
+2017-04-12 14:07:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:46 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_75_d0e5f5_1x400.png
+2017-04-12 14:07:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:46 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:07:46 DEBUG URIFilter:46 - equal
+2017-04-12 14:07:46 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:07:46 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:07:46 DEBUG SearchRoutesCommand:28 - 1
+2017-04-12 14:07:49 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:49 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:49 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:07:49 DEBUG URIFilter:46 - equal
+2017-04-12 14:07:49 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:07:49 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:07:49 DEBUG ChoiceOfSeatCommand:24 - 1
+2017-04-12 14:07:49 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:49 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:49 DEBUG URIFilter:38 - /images/coach_ico.png
+2017-04-12 14:07:49 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:49 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:49 DEBUG URIFilter:38 - /images/popup_close.png
+2017-04-12 14:07:52 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:52 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:52 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:07:52 DEBUG URIFilter:46 - equal
+2017-04-12 14:07:52 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:07:52 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:07:52 DEBUG UpdateSeatsCommand:27 - 1
+2017-04-12 14:07:52 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:52 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:52 DEBUG URIFilter:38 - /images/scheme_ico_bag.png
+2017-04-12 14:07:52 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:52 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:52 DEBUG URIFilter:38 - /images/toilet_full.png
+2017-04-12 14:07:53 DEBUG URIFilter:31 - In filter
+2017-04-12 14:07:53 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:07:53 DEBUG URIFilter:38 - /images/complex_btn.png
+2017-04-12 14:08:22 DEBUG URIFilter:31 - In filter
+2017-04-12 14:08:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:08:22 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:08:22 DEBUG URIFilter:46 - equal
+2017-04-12 14:08:22 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:08:22 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:08:22 DEBUG BuyTicketCommand:24 - 1
+2017-04-12 14:08:25 DEBUG URIFilter:31 - In filter
+2017-04-12 14:08:25 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:08:25 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:08:25 DEBUG URIFilter:46 - equal
+2017-04-12 14:08:25 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:08:25 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:08:25 DEBUG ShowTicket:28 - 1
+2017-04-12 14:18:38 DEBUG URIFilter:31 - In filter
+2017-04-12 14:18:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:18:38 DEBUG URIFilter:38 - /
+2017-04-12 14:18:38 DEBUG URIFilter:46 - equal
+2017-04-12 14:18:38 DEBUG URIFilter:31 - In filter
+2017-04-12 14:18:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:18:38 DEBUG URIFilter:38 - /
+2017-04-12 14:18:38 DEBUG URIFilter:46 - equal
+2017-04-12 14:18:39 DEBUG URIFilter:31 - In filter
+2017-04-12 14:18:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:18:39 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:18:39 DEBUG URIFilter:31 - In filter
+2017-04-12 14:18:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:18:39 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:18:39 DEBUG URIFilter:49 - not equal
+2017-04-12 14:18:39 DEBUG URIFilter:31 - In filter
+2017-04-12 14:18:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:18:39 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:18:39 DEBUG URIFilter:49 - not equal
+2017-04-12 14:18:54 DEBUG URIFilter:31 - In filter
+2017-04-12 14:18:54 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:18:54 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:18:54 DEBUG URIFilter:46 - equal
+2017-04-12 14:18:54 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:18:54 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:19:03 DEBUG URIFilter:31 - In filter
+2017-04-12 14:19:03 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:19:03 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:19:03 DEBUG URIFilter:46 - equal
+2017-04-12 14:19:03 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:19:03 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:19:03 DEBUG SearchRoutesCommand:26 - 7
+2017-04-12 14:19:05 DEBUG URIFilter:31 - In filter
+2017-04-12 14:19:05 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:19:05 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:19:05 DEBUG URIFilter:46 - equal
+2017-04-12 14:19:05 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:19:05 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:19:05 DEBUG ChoiceOfSeatCommand:24 - 7
+2017-04-12 14:19:08 DEBUG URIFilter:31 - In filter
+2017-04-12 14:19:08 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:19:08 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:19:08 DEBUG URIFilter:46 - equal
+2017-04-12 14:19:08 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:19:08 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:19:08 DEBUG UpdateSeatsCommand:27 - 7
+2017-04-12 14:19:18 DEBUG URIFilter:31 - In filter
+2017-04-12 14:19:18 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:19:18 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:19:18 DEBUG URIFilter:46 - equal
+2017-04-12 14:19:18 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:19:18 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:19:18 DEBUG BuyTicketCommand:24 - 7
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /
+2017-04-12 14:23:55 DEBUG URIFilter:46 - equal
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /
+2017-04-12 14:23:55 DEBUG URIFilter:46 - equal
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /
+2017-04-12 14:23:55 DEBUG URIFilter:46 - equal
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 14:23:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:55 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:23:56 DEBUG URIFilter:49 - not equal
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:23:56 DEBUG URIFilter:49 - not equal
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 14:23:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:56 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 14:23:57 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:57 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:57 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 14:23:57 DEBUG URIFilter:31 - In filter
+2017-04-12 14:23:57 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:23:57 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:24:06 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:06 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:06 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:24:06 DEBUG URIFilter:46 - equal
+2017-04-12 14:24:06 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:24:06 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:24:09 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:09 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:09 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:24:09 DEBUG URIFilter:46 - equal
+2017-04-12 14:24:09 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:24:09 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:24:09 DEBUG ShowTicket:28 - 7
+2017-04-12 14:24:22 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:22 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png
+2017-04-12 14:24:22 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:22 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-icons_d8e7f3_256x240.png
+2017-04-12 14:24:22 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:22 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_85_dfeffc_1x400.png
+2017-04-12 14:24:24 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:24 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:24 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_75_d0e5f5_1x400.png
+2017-04-12 14:24:24 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:24 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:24 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:24:24 DEBUG URIFilter:46 - equal
+2017-04-12 14:24:24 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:24:24 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:24:24 DEBUG SearchRoutesCommand:26 - 7
+2017-04-12 14:24:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:26 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:24:26 DEBUG URIFilter:46 - equal
+2017-04-12 14:24:26 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:24:26 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:24:26 DEBUG ChoiceOfSeatCommand:24 - 7
+2017-04-12 14:24:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:26 DEBUG URIFilter:38 - /images/popup_close.png
+2017-04-12 14:24:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:26 DEBUG URIFilter:38 - /images/coach_ico.png
+2017-04-12 14:24:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:29 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:24:29 DEBUG URIFilter:46 - equal
+2017-04-12 14:24:29 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:24:29 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:24:29 DEBUG UpdateSeatsCommand:27 - 7
+2017-04-12 14:24:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:29 DEBUG URIFilter:38 - /images/scheme_ico_bag.png
+2017-04-12 14:24:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:29 DEBUG URIFilter:38 - /images/toilet_full.png
+2017-04-12 14:24:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:30 DEBUG URIFilter:38 - /images/complex_btn.png
+2017-04-12 14:24:38 DEBUG URIFilter:31 - In filter
+2017-04-12 14:24:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:24:38 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:24:38 DEBUG URIFilter:46 - equal
+2017-04-12 14:24:38 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:24:38 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:24:38 DEBUG BuyTicketCommand:25 - 7
+2017-04-12 14:24:38 ERROR BuyTicketCommand:58 - java.lang.IllegalArgumentException: name or surname invalid
+2017-04-12 14:25:28 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:28 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:28 DEBUG URIFilter:38 - /
+2017-04-12 14:25:28 DEBUG URIFilter:46 - equal
+2017-04-12 14:25:28 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:28 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:28 DEBUG URIFilter:38 - /
+2017-04-12 14:25:28 DEBUG URIFilter:46 - equal
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /
+2017-04-12 14:25:29 DEBUG URIFilter:46 - equal
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 14:25:29 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:29 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:29 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:25:30 DEBUG URIFilter:49 - not equal
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:25:30 DEBUG URIFilter:49 - not equal
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 14:25:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:30 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 14:25:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:31 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 14:25:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:31 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 14:25:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:31 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 14:25:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:31 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:25:48 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:48 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:48 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:25:48 DEBUG URIFilter:46 - equal
+2017-04-12 14:25:48 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:25:48 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:25:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:55 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-icons_d8e7f3_256x240.png
+2017-04-12 14:25:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:55 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png
+2017-04-12 14:25:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:55 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_85_dfeffc_1x400.png
+2017-04-12 14:25:57 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:57 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:57 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_75_d0e5f5_1x400.png
+2017-04-12 14:25:59 DEBUG URIFilter:31 - In filter
+2017-04-12 14:25:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:25:59 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:25:59 DEBUG URIFilter:46 - equal
+2017-04-12 14:25:59 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:25:59 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:25:59 DEBUG SearchRoutesCommand:26 - 7
+2017-04-12 14:26:00 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:00 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:00 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:26:00 DEBUG URIFilter:46 - equal
+2017-04-12 14:26:00 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:26:00 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:26:00 DEBUG ChoiceOfSeatCommand:24 - 7
+2017-04-12 14:26:00 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:00 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:00 DEBUG URIFilter:38 - /images/popup_close.png
+2017-04-12 14:26:00 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:00 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:00 DEBUG URIFilter:38 - /images/coach_ico.png
+2017-04-12 14:26:02 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:02 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:02 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:26:02 DEBUG URIFilter:46 - equal
+2017-04-12 14:26:02 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:26:02 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:26:02 DEBUG UpdateSeatsCommand:27 - 7
+2017-04-12 14:26:02 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:02 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:02 DEBUG URIFilter:38 - /images/scheme_ico_bag.png
+2017-04-12 14:26:02 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:02 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:02 DEBUG URIFilter:38 - /images/toilet_full.png
+2017-04-12 14:26:03 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:03 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:03 DEBUG URIFilter:38 - /images/complex_btn.png
+2017-04-12 14:26:09 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:09 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:09 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:26:09 DEBUG URIFilter:46 - equal
+2017-04-12 14:26:09 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:26:09 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:26:09 DEBUG BuyTicketCommand:25 - 7
+2017-04-12 14:26:09 ERROR BuyTicketCommand:58 - java.lang.IllegalArgumentException: name or surname invalid
+2017-04-12 14:26:13 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:13 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:26:13 DEBUG URIFilter:46 - equal
+2017-04-12 14:26:13 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:26:13 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:26:13 DEBUG ShowTicket:28 - 7
+2017-04-12 14:26:17 DEBUG URIFilter:31 - In filter
+2017-04-12 14:26:17 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:26:17 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 14:26:17 DEBUG URIFilter:49 - not equal
+2017-04-12 14:27:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:31 DEBUG URIFilter:38 - /
+2017-04-12 14:27:31 DEBUG URIFilter:46 - equal
+2017-04-12 14:27:31 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:31 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:31 DEBUG URIFilter:38 - /
+2017-04-12 14:27:31 DEBUG URIFilter:46 - equal
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /
+2017-04-12 14:27:32 DEBUG URIFilter:46 - equal
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 14:27:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:32 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:27:33 DEBUG URIFilter:49 - not equal
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:27:33 DEBUG URIFilter:49 - not equal
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 14:27:33 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:33 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 14:27:34 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:34 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:34 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 14:27:34 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:34 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:34 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:27:40 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:40 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:40 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:27:40 DEBUG URIFilter:46 - equal
+2017-04-12 14:27:40 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:27:40 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:27:42 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:42 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:42 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:27:42 DEBUG URIFilter:46 - equal
+2017-04-12 14:27:42 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:27:42 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:27:42 DEBUG ShowTicket:28 - 7
+2017-04-12 14:27:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:27:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:27:47 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 14:27:47 DEBUG URIFilter:49 - not equal
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /
+2017-04-12 14:29:26 DEBUG URIFilter:46 - equal
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /
+2017-04-12 14:29:26 DEBUG URIFilter:46 - equal
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /
+2017-04-12 14:29:26 DEBUG URIFilter:46 - equal
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 14:29:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:26 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:29:27 DEBUG URIFilter:49 - not equal
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:29:27 DEBUG URIFilter:49 - not equal
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 14:29:27 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:27 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:27 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 14:29:28 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:28 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:28 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 14:29:28 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:28 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:28 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:29:35 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:35 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:35 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:29:35 DEBUG URIFilter:46 - equal
+2017-04-12 14:29:35 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:29:35 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:29:37 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:37 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:29:37 DEBUG URIFilter:46 - equal
+2017-04-12 14:29:37 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:29:37 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:29:37 DEBUG ShowTicket:28 - 7
+2017-04-12 14:29:59 DEBUG URIFilter:31 - In filter
+2017-04-12 14:29:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:29:59 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 14:29:59 DEBUG URIFilter:49 - not equal
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /
+2017-04-12 14:31:15 DEBUG URIFilter:46 - equal
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /
+2017-04-12 14:31:15 DEBUG URIFilter:46 - equal
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /
+2017-04-12 14:31:15 DEBUG URIFilter:46 - equal
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 14:31:15 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:15 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:15 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:31:16 DEBUG URIFilter:49 - not equal
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:31:16 DEBUG URIFilter:49 - not equal
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 14:31:16 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:16 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:16 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 14:31:17 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:17 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:17 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 14:31:17 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:17 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:17 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:31:24 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:24 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:24 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:31:24 DEBUG URIFilter:46 - equal
+2017-04-12 14:31:24 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:31:24 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:31:26 DEBUG URIFilter:31 - In filter
+2017-04-12 14:31:26 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:31:26 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:31:26 DEBUG URIFilter:46 - equal
+2017-04-12 14:31:26 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:31:26 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:31:26 DEBUG ShowTicket:28 - 7
+2017-04-12 14:32:22 DEBUG URIFilter:31 - In filter
+2017-04-12 14:32:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:32:22 DEBUG URIFilter:38 - /
+2017-04-12 14:32:22 DEBUG URIFilter:46 - equal
+2017-04-12 14:32:22 DEBUG URIFilter:31 - In filter
+2017-04-12 14:32:22 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:32:22 DEBUG URIFilter:38 - /
+2017-04-12 14:32:22 DEBUG URIFilter:46 - equal
+2017-04-12 14:32:23 DEBUG URIFilter:31 - In filter
+2017-04-12 14:32:23 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:32:23 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:32:30 DEBUG URIFilter:31 - In filter
+2017-04-12 14:32:30 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:32:30 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:32:30 DEBUG URIFilter:46 - equal
+2017-04-12 14:32:30 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:32:30 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:32:32 DEBUG URIFilter:31 - In filter
+2017-04-12 14:32:32 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:32:32 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:32:32 DEBUG URIFilter:46 - equal
+2017-04-12 14:32:32 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:32:32 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:32:32 DEBUG ShowTicket:28 - 7
+2017-04-12 14:32:39 DEBUG URIFilter:31 - In filter
+2017-04-12 14:32:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:32:39 DEBUG URIFilter:38 - /css/bootstrap.min.css.map
+2017-04-12 14:32:39 DEBUG URIFilter:49 - not equal
+2017-04-12 14:33:49 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:49 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:49 DEBUG URIFilter:38 - /
+2017-04-12 14:33:49 DEBUG URIFilter:46 - equal
+2017-04-12 14:33:49 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:49 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:49 DEBUG URIFilter:38 - /
+2017-04-12 14:33:49 DEBUG URIFilter:46 - equal
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /
+2017-04-12 14:33:50 DEBUG URIFilter:46 - equal
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:33:50 DEBUG URIFilter:49 - not equal
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 14:33:50 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:50 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:50 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:33:51 DEBUG URIFilter:49 - not equal
+2017-04-12 14:33:51 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:51 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:51 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 14:33:52 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:52 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:52 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 14:33:52 DEBUG URIFilter:31 - In filter
+2017-04-12 14:33:52 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:33:52 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:34:03 DEBUG URIFilter:31 - In filter
+2017-04-12 14:34:03 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:34:03 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:34:03 DEBUG URIFilter:46 - equal
+2017-04-12 14:34:03 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:34:03 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:34:06 DEBUG URIFilter:31 - In filter
+2017-04-12 14:34:06 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:34:06 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:34:06 DEBUG URIFilter:46 - equal
+2017-04-12 14:34:06 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:34:06 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:34:06 DEBUG ShowTicket:28 - 7
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /
+2017-04-12 14:36:46 DEBUG URIFilter:46 - equal
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /
+2017-04-12 14:36:46 DEBUG URIFilter:46 - equal
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /
+2017-04-12 14:36:46 DEBUG URIFilter:46 - equal
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /css/style.css
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /css/footer.css
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-12 14:36:46 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:46 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:46 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /js/validation.js
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-12 14:36:47 DEBUG URIFilter:49 - not equal
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-12 14:36:47 DEBUG URIFilter:49 - not equal
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/revers.png
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-12 14:36:47 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:47 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:47 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-12 14:36:48 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:48 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:48 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-12 14:36:48 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:48 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:48 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:36:55 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:55 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:36:55 DEBUG URIFilter:46 - equal
+2017-04-12 14:36:55 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:36:55 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:36:58 DEBUG URIFilter:31 - In filter
+2017-04-12 14:36:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:36:58 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:36:58 DEBUG URIFilter:46 - equal
+2017-04-12 14:36:58 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:36:58 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:36:58 DEBUG ShowTicket:28 - 7
+2017-04-12 14:37:09 DEBUG URIFilter:31 - In filter
+2017-04-12 14:37:09 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:37:09 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:37:09 DEBUG URIFilter:46 - equal
+2017-04-12 14:37:09 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:37:09 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:37:13 DEBUG URIFilter:31 - In filter
+2017-04-12 14:37:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:37:13 DEBUG URIFilter:38 - /
+2017-04-12 14:37:13 DEBUG URIFilter:46 - equal
+2017-04-12 14:37:13 DEBUG URIFilter:31 - In filter
+2017-04-12 14:37:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:37:13 DEBUG URIFilter:38 - /js/main.js
+2017-04-12 14:37:14 DEBUG URIFilter:31 - In filter
+2017-04-12 14:37:14 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:37:14 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-12 14:50:39 DEBUG URIFilter:31 - In filter
+2017-04-12 14:50:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:50:39 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:50:39 DEBUG URIFilter:46 - equal
+2017-04-12 14:50:39 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:50:39 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:50:43 DEBUG URIFilter:31 - In filter
+2017-04-12 14:50:43 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:50:43 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:50:43 DEBUG URIFilter:46 - equal
+2017-04-12 14:50:43 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:50:43 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:50:43 DEBUG ShowTicket:28 - 7
+2017-04-12 14:51:54 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:54 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:54 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png
+2017-04-12 14:51:54 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:54 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:54 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_85_dfeffc_1x400.png
+2017-04-12 14:51:54 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:54 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:54 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-icons_d8e7f3_256x240.png
+2017-04-12 14:51:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:56 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_glass_75_d0e5f5_1x400.png
+2017-04-12 14:51:56 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:56 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:56 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:51:56 DEBUG URIFilter:46 - equal
+2017-04-12 14:51:56 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:51:56 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:51:56 DEBUG SearchRoutesCommand:26 - 7
+2017-04-12 14:51:58 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:58 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:58 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:51:58 DEBUG URIFilter:46 - equal
+2017-04-12 14:51:58 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:51:58 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:51:58 DEBUG ChoiceOfSeatCommand:24 - 7
+2017-04-12 14:51:59 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:59 DEBUG URIFilter:38 - /images/popup_close.png
+2017-04-12 14:51:59 DEBUG URIFilter:31 - In filter
+2017-04-12 14:51:59 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:51:59 DEBUG URIFilter:38 - /images/coach_ico.png
+2017-04-12 14:52:01 DEBUG URIFilter:31 - In filter
+2017-04-12 14:52:01 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:52:01 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:52:01 DEBUG URIFilter:46 - equal
+2017-04-12 14:52:01 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:52:01 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:52:01 DEBUG UpdateSeatsCommand:27 - 7
+2017-04-12 14:52:01 DEBUG URIFilter:31 - In filter
+2017-04-12 14:52:01 DEBUG URIFilter:31 - In filter
+2017-04-12 14:52:01 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:52:01 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:52:01 DEBUG URIFilter:38 - /images/toilet_full.png
+2017-04-12 14:52:01 DEBUG URIFilter:38 - /images/scheme_ico_bag.png
+2017-04-12 14:52:02 DEBUG URIFilter:31 - In filter
+2017-04-12 14:52:02 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:52:02 DEBUG URIFilter:38 - /images/complex_btn.png
+2017-04-12 14:52:14 DEBUG URIFilter:31 - In filter
+2017-04-12 14:52:14 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:52:14 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:52:14 DEBUG URIFilter:46 - equal
+2017-04-12 14:52:14 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:52:14 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:52:14 DEBUG BuyTicketCommand:25 - 7
+2017-04-12 14:52:14 ERROR BuyTicketCommand:58 - java.lang.IllegalArgumentException: name or surname invalid
+2017-04-12 14:52:21 DEBUG URIFilter:31 - In filter
+2017-04-12 14:52:21 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:52:21 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:52:21 DEBUG URIFilter:46 - equal
+2017-04-12 14:52:21 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:52:21 DEBUG APIHandlerServlet:29 - doPost
+2017-04-12 14:52:21 DEBUG BuyTicketCommand:25 - 7
+2017-04-12 14:52:25 DEBUG URIFilter:31 - In filter
+2017-04-12 14:52:25 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-12 14:52:25 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-12 14:52:25 DEBUG URIFilter:46 - equal
+2017-04-12 14:52:25 DEBUG AuthFilter:39 - In filter
+2017-04-12 14:52:25 DEBUG APIHandlerServlet:23 - doGet
+2017-04-12 14:52:25 DEBUG ShowTicket:28 - 7
+2017-04-26 22:42:33 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:33 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:33 DEBUG URIFilter:38 - /
+2017-04-26 22:42:33 DEBUG URIFilter:46 - equal
+2017-04-26 22:42:34 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:34 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:34 DEBUG URIFilter:38 - /
+2017-04-26 22:42:34 DEBUG URIFilter:46 - equal
+2017-04-26 22:42:36 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:36 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:36 DEBUG URIFilter:38 - /
+2017-04-26 22:42:36 DEBUG URIFilter:46 - equal
+2017-04-26 22:42:37 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:37 DEBUG URIFilter:38 - /css/searchRoutes.css
+2017-04-26 22:42:37 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:37 DEBUG URIFilter:38 - /css/bootstrap.min.css
+2017-04-26 22:42:37 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:37 DEBUG URIFilter:38 - /css/font-awesome.min.css
+2017-04-26 22:42:37 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:37 DEBUG URIFilter:38 - /css/style.css
+2017-04-26 22:42:37 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:37 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:37 DEBUG URIFilter:38 - /css/fonts.css
+2017-04-26 22:42:37 DEBUG URIFilter:38 - /css/footer.css
+2017-04-26 22:42:37 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:37 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:37 DEBUG URIFilter:38 - /js/jquery-3.2.0.js
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.css
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /js/bootstrap.min.js
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /jqueryDatepicker/jquery-ui.js
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /js/main.js
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff2
+2017-04-26 22:42:38 DEBUG URIFilter:49 - not equal
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff2
+2017-04-26 22:42:38 DEBUG URIFilter:49 - not equal
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /js/validation.js
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /fonts/MyriadProCondRegular/MyriadProCondRegular.woff
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /jqueryDatepicker/jquery.ui.datepicker-ru.js
+2017-04-26 22:42:38 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:38 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:38 DEBUG URIFilter:38 - /jquery-validation-1.15.1/dist/jquery.validate.min.js
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/train1.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/train2.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/train4.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/train3.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/logo3.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/logo2.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/logo6.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/trainlogo.png
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/logo4.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/logo5.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/logo1.jpg
+2017-04-26 22:42:39 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:39 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:39 DEBUG URIFilter:38 - /images/looking.gif
+2017-04-26 22:42:40 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:40 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:40 DEBUG URIFilter:38 - /images/revers.png
+2017-04-26 22:42:40 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:40 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:40 DEBUG URIFilter:38 - /images/searchbutton.png
+2017-04-26 22:42:41 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:41 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:41 DEBUG URIFilter:38 - /fonts/FontAwesome/fontawesome-webfont.woff
+2017-04-26 22:42:41 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:41 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:41 DEBUG URIFilter:38 - /fonts/glyphicons-halflings-regular.woff
+2017-04-26 22:42:42 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:42 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:42 DEBUG URIFilter:38 - /images/favicon.png
+2017-04-26 22:42:42 DEBUG URIFilter:31 - In filter
+2017-04-26 22:42:42 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:42:42 DEBUG URIFilter:38 - /jqueryDatepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png
+2017-04-26 22:43:55 DEBUG URIFilter:31 - In filter
+2017-04-26 22:43:55 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:43:55 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-26 22:43:55 DEBUG URIFilter:46 - equal
+2017-04-26 22:43:55 DEBUG AuthFilter:39 - In filter
+2017-04-26 22:43:55 DEBUG APIHandlerServlet:29 - doPost
+2017-04-26 22:44:04 DEBUG URIFilter:31 - In filter
+2017-04-26 22:44:04 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:44:04 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-26 22:44:04 DEBUG URIFilter:46 - equal
+2017-04-26 22:44:04 DEBUG AuthFilter:39 - In filter
+2017-04-26 22:44:04 DEBUG APIHandlerServlet:23 - doGet
+2017-04-26 22:44:04 DEBUG ShowUsersCommand:24 - 2
+2017-04-26 22:44:08 DEBUG URIFilter:31 - In filter
+2017-04-26 22:44:08 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:44:08 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-26 22:44:08 DEBUG URIFilter:46 - equal
+2017-04-26 22:44:08 DEBUG AuthFilter:39 - In filter
+2017-04-26 22:44:08 DEBUG APIHandlerServlet:23 - doGet
+2017-04-26 22:44:08 DEBUG ShowTicket:28 - 2
+2017-04-26 22:44:13 DEBUG URIFilter:31 - In filter
+2017-04-26 22:44:13 DEBUG URIFilter:37 - /APIHandlerServlet
+2017-04-26 22:44:13 DEBUG URIFilter:38 - /APIHandlerServlet
+2017-04-26 22:44:13 DEBUG URIFilter:46 - equal
+2017-04-26 22:44:13 DEBUG AuthFilter:39 - In filter
+2017-04-26 22:44:13 DEBUG APIHandlerServlet:23 - doGet
+2017-04-26 22:44:13 DEBUG ShowTicket:28 - 2

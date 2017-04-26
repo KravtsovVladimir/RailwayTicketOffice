@@ -3,6 +3,8 @@ package epam.db.service;
 import epam.db.dao.DaoFactory;
 import epam.db.dao.interfaces.SeatDao;
 import epam.db.dao.interfaces.TicketDao;
+import epam.db.dto.Ticket;
+import epam.regexp.RegExp;
 
 import java.util.List;
 
@@ -26,10 +28,17 @@ public class TicketService {
         }
 
         for (int i = 0; i < seats.size(); i++) {
+            if (!(RegExp.validateForLettersAndDash(names.get(i)) && RegExp.validateForLettersAndDash(surnames.get(i)))){
+                throw new IllegalArgumentException("name or surname invalid");
+            }
             ticketDao.buyTicket(train_number, dep_date, dep_st, arr_st, price, carriages.get(i), seats.get(i),
                     names.get(i), surnames.get(i), dep_st_seq, arr_st_seq, user_id);
         }
 
         return true;
+    }
+
+    public List<Ticket> getTickets(int user_id){
+        return ticketDao.getTickets(user_id);
     }
 }

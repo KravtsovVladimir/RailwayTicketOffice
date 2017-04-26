@@ -5,6 +5,7 @@ import epam.commands.route.SearchRoutesCommand;
 import epam.commands.seat.ChoiceOfSeatCommand;
 import epam.commands.seat.UpdateSeatsCommand;
 import epam.commands.ticket.BuyTicketCommand;
+import epam.commands.ticket.ShowTicket;
 import epam.commands.user.*;
 import org.apache.log4j.Logger;
 
@@ -36,6 +37,7 @@ public class CommandDispatcher {
         map.put("unblock", new UnblockUsersCommand());
         map.put("delete", new DeleteUsersCommand());
         map.put("exit", new ExitCommand());
+        map.put("showTicket", new ShowTicket());
 
         commands = Collections.unmodifiableMap(map);
     }

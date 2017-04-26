@@ -2,11 +2,15 @@ package epam.db.dao.implementation;
 
 import epam.connection.ConnectionProxy;
 import epam.db.dao.interfaces.TicketDao;
+import epam.db.dto.Ticket;
 import org.apache.log4j.Logger;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
 
 public class TicketDaoImpl implements TicketDao {
 
@@ -21,6 +25,8 @@ public class TicketDaoImpl implements TicketDao {
     private static final String QUERY_INSERT = "INSERT INTO ticket (departure_date, arrival_date, ticketPrice," +
             " route_number, departure_station, arrival_station, dep_st_seq, arr_st_seq, user, train, carriage," +
             " seat, surname, name) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)";
+
+    private static final String QUERY_GET = "SELECT * FROM ticket WHERE user = ?";
 
     @Override
     public void buyTicket(String train_number, String dep_date, String dep_st, String arr_st, double price,
@@ -78,6 +84,42 @@ public class TicketDaoImpl implements TicketDao {
         } catch (SQLException e) {
             logger.error("Sorry, something wrong!", e);
         }
+
+    }
+
+    @Override
+    public List<Ticket> getTickets(int user_id) {
+        List<Ticket> list = new ArrayList<>();
+
+        try (ConnectionProxy connectionProxy = TransactionHelper.getInstance().getConnectionProxy();
+             PreparedStatement preparedStatement = connectionProxy.prepareStatement(QUERY_GET)) {
+            preparedStatement.setInt(1, user_id);
+
+            ResultSet rs = preparedStatement.executeQuery();
+
+            while (rs.next()) {
+                Ticket ticket = new Ticket();
+                ticket.setTicket_id(rs.getInt("ticket_id"));
+                ticket.setCreate_date(rs.getString("create_date"));
+                ticket.setDeparture_date(rs.getString("departure_date"));
+                ticket.setArrival_date(rs.getString("arrival_date"));
+                ticket.setTicketPrice(rs.getDouble("ticketPrice"));
+                ticket.setDeparture_station(rs.getInt("departure_station"));
+                ticket.setArrival_station(rs.getInt("arrival_station"));
+                ticket.setUser(rs.getInt("user"));
+                ticket.setTrain(rs.getInt("train"));
+                ticket.setCarriage(rs.getInt("carriage"));
+                ticket.setSeat(rs.getInt("seat"));
+                ticket.setName(rs.getString("name"));
+                ticket.setSurname(rs.getString("surname"));
+                list.add(ticket);
+            }
+
+            return list;
+        } catch (SQLException e) {
+            logger.error("Sorry, something wrong!", e);
+        }
+        return list;
 
     }
 }

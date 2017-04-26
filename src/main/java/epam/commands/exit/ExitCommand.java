@@ -12,7 +12,7 @@ public class ExitCommand implements ICommand {
 
     @Override
     public JSONStreamAware processRequest(HttpServletRequest request) {
-        request.getSession().removeAttribute("Authorization");
+        request.getSession().removeAttribute("user_id");
         return new JSONObject();
     }
 }

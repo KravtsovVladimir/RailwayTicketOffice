@@ -15,6 +15,7 @@ public final class JSONResponses {
     public static final JSONStreamAware ERROR_EMAIL_ALREADY_EXIST;
     public static final JSONStreamAware ERROR_WHEN_BUYING_TICKET;
     public static final JSONStreamAware ERROR_AUTHENTICATION;
+    public static final JSONStreamAware ERROR_NAME_INVALID;
 
     static {
         JSONObject response = new JSONObject();
@@ -71,5 +72,10 @@ public final class JSONResponses {
         response.put("errorCode", 11);
         response.put("errorDescription", "An authentication error");
         ERROR_AUTHENTICATION = JSON.prepare(response);
+
+        response = new JSONObject();
+        response.put("errorCode", 12);
+        response.put("errorDescription", "invalid name or surname");
+        ERROR_NAME_INVALID = JSON.prepare(response);
     }
 }

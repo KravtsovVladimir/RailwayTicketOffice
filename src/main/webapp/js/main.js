@@ -32,6 +32,8 @@ var main = {
                     if (data.isAdmin) {
                         $("#responsive-menu ul").append("<li><a href='#' onclick='main.showUsers()' >Управление</a></li>");
                     }
+                    $("#responsive-menu ul").append("<li><a href='#' onclick='main.showTicket()' >Билеты</a></li>");
+
                 } else if (data.errorCode == 2) {
                     alert("Проверти корректность написания логина или пароля!")
                 } else if (data.errorCode == 5) {
@@ -513,6 +515,8 @@ var main = {
                     alert("Ошибка аутентификации, возможно вы не вошли в систему!")
                 } else if (data.errorCode == 9) {
                     alert("Извините, но вас заблокировали!")
+                } else if (data.errorCode == 12) {
+                    alert("Фамилия или Имя не валидні!")
                 } else {
                     alert("Неизвестный код ошибки, блок: success!")
                 }
@@ -605,6 +609,116 @@ var main = {
                         alert("Ошибка аутентификации, возможно вы не вошли в систему!")
                     } else if (data.errorCode == 9) {
                         alert("Извините, но вас заблокировали!")
+                    } else {
+                        alert("Ошибка, errorCode - не определен!");
+                        console.log(data);
+                    }
+                },
+                error: function (data) {
+                    alert("Ошибка выбора, блок: error!");
+                    console.log(data)
+                }
+            }
+        );
+    },
+
+
+    showTicket: function () {
+        $.ajax({
+                type: "GET",
+                dataType: "json",
+                url: "/APIHandlerServlet",
+                data: {
+                    requestType: "showTicket"
+                },
+                success: function (data) {
+                    if (data.errorCode == undefined) {
+                        console.log("Method - showTicket, data: ");
+                        console.log(data);
+
+                        $("#background_div").show();
+
+                        $("body").append("<div class='vToolsPopupCoachScheme' style='z-index: 1004; position: absolute; "
+                            + "top: 1055px; opacity: 1; width: 1062px; visibility: visible; left: 183px; height: auto;"
+                            + "background: #f1f2f4; border-radius: 3px; margin: 10px; box-shadow: 0 10px 15px 5px #6c6e6f;'></div>");
+
+
+                        $(".vToolsPopupCoachScheme").append("<div class='vToolsPopupContent' style='overflow: auto; height: auto;'></div>");
+
+                        $(".vToolsPopupContent").append("<div id='ts_chs_scheme' class='coach-scheme' style='min-height: 15px;'></div>");
+
+                        $(".vToolsPopupContent").append("<div id='ts_chs_tbl' style='opacity: 1;'></div>");
+
+                        $("#ts_chs_tbl").append("<table class='vToolsDataTableChoose' cellspacing='1' cellpadding='0' border='0' width='100%'></table>");
+
+                        $(".vToolsDataTableChoose").append("<thead><tr>"
+                            + "<th class='th1' style='width: 20px'>Id</th>"
+                            + "<th class='th2' style='width: 100px'>Create date</th>"
+                            + "<th class='th3' style='width: 100px'>Departure date</th>"
+                            + "<th class='th4' style='width: 100px'>Arrival date</th>"
+                            + "<th class='th5' style='width: 20px'>Price</th>"
+                            + "<th class='th6' style='width: 20px'>Dep_St</th>"
+                            + "<th class='th7' style='width: 20px'>Arr_St</th>"
+                            + "<th class='th8' style='width: 20px'>User</th>"
+                            + "<th class='th9' style='width: 20px'>Train</th>"
+                            + "<th class='th10' style='width:20px'>Carriage</th>"
+                            + "<th class='th11' style='width:20px'>Seat</th>"
+                            + "<th class='th12' style='width:50px'>Name</th>"
+                            + "<th class='th12' style='width:50px'>Surname</th>"
+                            + "</tr></thead>");
+
+                        $(".vToolsPopupContent").append("<div id='ts_chs_tbl' style='opacity: 1;'></div>");
+
+                        $("#ts_chs_tbl").append("<table class='vToolsDataTableChoose' cellspacing='1' cellpadding='0' border='0' width='100%'></table>");
+
+                        $(".vToolsDataTableChoose").append("<tbody id='tbodyChoose'></tbody>");
+
+                        for (var i = 0; i < Object.keys(data).length; i++) {
+
+                            var result = data[i];
+                            var y = (i % 2 == 0) ? '' : 2;
+
+                            $("#tbodyChoose").append("<tr id='chooseTR" + i + "' class='vToolsDataTableRow" + y + "'></tr>");
+
+                            $("#chooseTR" + i).append("<td class='id'>" + result.ticket_id + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='cr_date' style='opacity: 1;'>" + result.create_date + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='dep_date' style='opacity: 1;'>" + result.departure_date + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='arr_date' style='opacity: 1;'>" + result.arrival_date + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='price' style='opacity: 1;'>" + result.ticketPrice + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='dep_st' style='opacity: 1;'>" + result.departure_station + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='arr_st' style='opacity: 1;'>" + result.arrival_station + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='user' style='opacity: 1;'>" + result.user + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='train' style='opacity: 1;'>" + result.train + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='carriage' style='opacity: 1;'>" + result.carriage + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='seat' style='opacity: 1;'>" + result.seat + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='name' style='opacity: 1;'>" + result.name + "</td>");
+
+                            $("#chooseTR" + i).append("<td class='surname' style='opacity: 1;'>" + result.surname + "</td>");
+
+                            $("#chooseTR" + i).append("<br>");
+
+                        }
+
+                        $("#ts_chs_tbl").append("<br>")
+                        $("#ts_chs_tbl").append("<p></p>")
+
+                    } else if (data.errorCode == 11) {
+                        alert("Ошибка аутентификации, возможно вы не вошли в систему!")
+                    } else if (data.errorCode == 9) {
+                        alert("Извините, но вас заблокировали!")
+                    } else if (data.errorCode == 12) {
+                        alert("Фамилия или Имя не валидні!")
                     } else {
                         alert("Ошибка, errorCode - не определен!");
                         console.log(data);
